@@ -53,7 +53,7 @@ Units Sold: 9,648
 ## Key Findings and Insights
 The analysis produced the following findings based on the dashboard:
 1. Regional performance: The West recorded the highest sales and profit, while the Midwest recorded the lowest sales and profit.
-2. Product categories: Men's Street Footwear and Women's Apparel were among the strongest-performing categories. Women's Street Footwear was identified as a weaker category.
+2. Product categories: Men's Street Footwear and Women's Apparel were among the strongest-performing categories. Women's Athletic Footwear was identified as a weaker category.
 3. Retailer performance: Foot Locker led in the Midwest, Northeast, and Southeast; Sports Direct led in the South; and West Gear led in the West.
 4. Profitability: The South recorded the highest approximate profit margin of 44.8%.
 5. Sales channels: Online, Outlet, and In-store channels provide different opportunities for reaching customers and generating sales.
